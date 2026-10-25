@@ -1,3 +1,4 @@
 # RoadmapSH_repo
 
-###  instructions to run the project and the project page URL
+### CHECK
+1. greeting_builder url = https://roadmap.sh/projects/js-greeting-builder
