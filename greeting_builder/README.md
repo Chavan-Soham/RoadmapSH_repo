@@ -1,5 +1,7 @@
 ## GREETING BUILDER
 
+### PROJECT URL WAS THIS: https://roadmap.sh/projects/js-greeting-builder
+
 ### clone this repo by the following command:
 ```bash
 git clone https://github.com/Chavan-Soham/RoadmapSH_repo.git
